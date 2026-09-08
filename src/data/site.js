@@ -1,7 +1,7 @@
 // Liens externes — à ajuster selon les URLs réelles de déploiement.
 export const LINKS = {
   demo: 'https://ad-el1.github.io/dalil',
-  github: 'https://github.com/ad-el1/dalil',
+  github: 'https://github.com/ad-el1/site-dalil',
   map: 'https://ad-el1.github.io/map',
 }
 
